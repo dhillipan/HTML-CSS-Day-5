@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.article {
+    flex: 1;
+    margin: 10px;
+}
+
+.article img {
+    max-width: 100%;
+}
+
+.article h2 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.article p {
+    margin: 10px 0;
+}
+
+.line{
+    border: 0;
+    border-top: 1px solid rgb(99, 99, 99);
+}
+
+.outline{
+    border: 1px solid rgb(207, 205, 205);
+}
+
+.pad{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.bottom-pad{
+    margin-bottom: 20px;
+}
+
+.min-pad{
+    margin-top: -5px !important;
+}
+
+.end{
+    margin-bottom: 100px;
+}
+
